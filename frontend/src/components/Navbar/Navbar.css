@@ -56,7 +56,10 @@ position: relative;
 .navbar-right button:hover {
     background: #fff4f2;
 }
-
+.login-btn{
+    background-color: #8b0000;
+    color:white;
+} 
 .navbar-profile{
     position: relative;
 
