@@ -43,10 +43,10 @@ position: relative;
 }
 
 .navbar-right button {
-    background: transparent;
+    background: #8b0000 ;
     font-size: 16px;
-    color: #49557E;
-    border: 1px solid #FF4C24;
+    color: white;
+    border: 1px solid #b12525;
     padding: 10px 30px;
     border-radius: 50px;
     cursor: pointer;
@@ -54,12 +54,9 @@ position: relative;
 }
 
 .navbar-right button:hover {
-    background: #fff4f2;
+    background: #a60303;
 }
-.login-btn{
-    background-color: #8b0000;
-    color:white;
-} 
+
 .navbar-profile{
     position: relative;
 
